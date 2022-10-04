@@ -1,7 +1,7 @@
 # Tutoria de Python
 Aqui se encuentran los ejercicios realizados y sus soliciones. Los temas comprendidos abarcan:
 
-* Listas
+* [Listas](/Listas)
 * Matrices
 * Diccionarios
 * Tuplas
