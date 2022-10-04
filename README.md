@@ -1,7 +1,7 @@
 # Tutoria de Python
 Aqui se encuentran los ejercicios realizados y sus soliciones. Los temas comprendidos abarcan:
 
-* [Listas](/#listas)
+* [Listas](./#listas)
 * [Matrices](https://github.com/rakso-dev/python-course#matrices)
 * [Diccionarios](https://github.com/rakso-dev/python-course#diccionarios)
 * [Tuplas](https://github.com/rakso-dev/python-course#tuplas)
