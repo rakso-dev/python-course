@@ -1,0 +1,7 @@
+array = ["chocolate", "rain", 1, 9, 11, "chocolate"]
+repeated = array[0]
+most = 0
+
+for i in range(len(array)):
+    if array.count(array[i]) > most:
+        most = array.count(array[i])
